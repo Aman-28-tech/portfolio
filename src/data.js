@@ -31,14 +31,15 @@ export const STATS = [
 
 export const EXPERIENCE = [
   {
-    title: "Full-Stack Web Developer Intern",
-    company: "Skylark Express Delhi Pvt Ltd",
+    title: "Quality Inspection Intern — Data Analysis",
+    company: "Spinks Softech Pvt. Ltd.",
     date: "Jun 2025 – Jul 2025",
-    location: "Gurugram (On-site)",
+    location: "On-site, Manesar",
     points: [
-      "Developed internal logistics dashboard improving data visibility and workflow efficiency.",
-      "Built frontend using React, Next.js, TypeScript and integrated REST APIs.",
-      "Improved UI responsiveness and system performance for internal operations."
+      "Analyzed manufacturing inspection datasets to identify recurring defect patterns and process inconsistencies.",
+      "Organized and cleaned raw operational data into structured datasets using Excel for efficient tracking and reporting.",
+      "Performed data-driven analysis to derive actionable insights supporting quality optimization and workflow improvements.",
+      "Collaborated with inspection teams to improve process visibility and reduce inconsistencies in manual quality checks."
     ]
   }
 ];
